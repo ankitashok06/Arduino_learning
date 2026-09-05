@@ -8,4 +8,4 @@ This repository contains my Arduino learning experiments, practice programs, and
 - Sensors
 - Motors
 - Communication
-- Robotics projects
+- Projects
